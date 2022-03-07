@@ -7,3 +7,5 @@ Objectives:
 * We use Tensorflow's API to create a CNN with multiple 2D convolution layers.
 * The network prove excellent at classifying the spectograms in 10 distinct classes. 
 * Final validation accuracy is about 98%.
+
+Use this link to download the spectogram image dataset https://drive.google.com/drive/folders/1xRU4PhH6CBMGPTwAJI5KM5Ogz3o0AG5P?usp=sharing
